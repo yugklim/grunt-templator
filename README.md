@@ -66,7 +66,7 @@ In this example, the default options are used to do generate the Web component t
 style files. 
 So if the markup file has the content :
  
- <div>
+ &lt;div&gt;
    I am template markup
  </div>
  
