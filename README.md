@@ -74,23 +74,24 @@ So if the markup file has the content :
  
 ,and the style file has the content :
 
-body{
+body {<br>
   background: #0000ff;
+  <br>
 }
 , - the generated result would be :
 
-&lt;template&gt;
+&lt;template&gt;<br>
 
-&lt;style&gt;
-body{
-  background: #0000ff;
-}
-&lt;/style&gt;
-
-&lt;div&gt;
-  I am template markup
-&lt;/div&gt;
-
+&lt;style&gt;<br>
+body{<br>
+  background: #0000ff;<br>
+}<br>
+&lt;/style&gt;<br>
+<br>
+&lt;div&gt;<br>
+  I am template markup<br>
+&lt;/div&gt;<br>
+<br>
 &lt;/template&gt;
 
 
