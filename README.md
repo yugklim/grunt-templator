@@ -66,8 +66,9 @@ In this example, the default options are used to do generate the Web component t
 style files. 
 So if the markup file has the content :
  
- &lt;div&gt;/n
-   I am template markup/n
+ 
+ &lt;div&gt;\r\n
+   I am template markup
  &lt;/div&gt;
  
 ,and the style file has the content :
@@ -77,19 +78,19 @@ body{
 }
 , - the generated result would be :
 
-<template>
+&lt;template&gt;
 
-<style>
+&lt;style&gt;
 body{
   background: #0000ff;
 }
-</style>
+&lt;/style&gt;
 
-<div>
+&lt;div&gt;
   I am template markup
-</div>
+&lt;/div&gt;
 
-</template>
+&lt;/template&gt;
 
 
 
