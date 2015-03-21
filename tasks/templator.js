@@ -11,7 +11,7 @@
 module.exports = function (grunt) {
 
   // Please see the Grunt documentation for more information regarding task
-  // creation: http://gruntjs.com/creating-tasks
+  // creation: http://gruntjs.com/creating-tasks s
 
   grunt.registerMultiTask('templator', 'grunt-webcomponent-master', function () {
 
