@@ -1,12 +1,12 @@
 {
-  "name": "grunt-templator",
-  "version": "0.0.1",
-  "description": "grunt-webcomponent-master",
-  "repository": "",
+  "name": "grunt-webcomponent-master",
+  "version": "0.0.2",
+  "description": "combines html and css files into web component template construction",
+  "repository": "https://github.com/yugklim/grunt-templator",
   "author": {
     "name": "Eugene Klymenko",
     "email": "yugklim@gmail.com",
-    "url": ""
+    "url": "http://yugklim.wordpress.com/"
   },
   "keywords": [
     "gruntplugin"
